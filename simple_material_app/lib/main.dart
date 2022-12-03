@@ -9,7 +9,7 @@ void main() {
         // Appbar
         appBar: AppBar(
           // Title
-          title: Text("Simple Material App"),
+          title: Text("sorry just experimenting with github"),
         ),
         // Body
         body: Container(
